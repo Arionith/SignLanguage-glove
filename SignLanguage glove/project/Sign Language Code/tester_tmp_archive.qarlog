@@ -1,0 +1,389 @@
+Quartus II Archive log --	C:/Users/SarthakB/Documents/project/Tester/tester_tmp_archive.qarlog
+
+Archive:	C:/Users/SarthakB/Documents/project/Tester/tester_tmp_archive.qar
+Date:		Sun Nov 23 00:10:53 2014
+Quartus II 32-bit		11.1 Build 259 01/25/2012 SP 2 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/SarthakB/Documents/project/Lab7_starterkit/hand1.qip
+C:/Users/SarthakB/Documents/project/Lab7_starterkit/hand1.v
+C:/Users/SarthakB/Documents/project/Lab7_starterkit/hand1_bb.v
+C:/Users/SarthakB/Documents/project/Lab7_starterkit/hand1_inst.v
+C:/Users/SarthakB/Documents/project/Letter Folder/A/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/B/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/C/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/D/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/E/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/F/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/G/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/H/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/I/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/J/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/K/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/L/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/M/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/N/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/O/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/P/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/Q/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/R/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/S/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/T/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/U/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/V/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/W/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/X/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/Y/image.colour.mif
+C:/Users/SarthakB/Documents/project/Letter Folder/Z/image.colour.mif
+C:/Users/SarthakB/Documents/project/Tester/A.qip
+C:/Users/SarthakB/Documents/project/Tester/A.v
+C:/Users/SarthakB/Documents/project/Tester/A_bb.v
+C:/Users/SarthakB/Documents/project/Tester/A_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Ah.qip
+C:/Users/SarthakB/Documents/project/Tester/Ah.v
+C:/Users/SarthakB/Documents/project/Tester/Ah_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Ah_inst.v
+C:/Users/SarthakB/Documents/project/Tester/B.qip
+C:/Users/SarthakB/Documents/project/Tester/B.v
+C:/Users/SarthakB/Documents/project/Tester/B_bb.v
+C:/Users/SarthakB/Documents/project/Tester/B_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Bh.qip
+C:/Users/SarthakB/Documents/project/Tester/Bh.v
+C:/Users/SarthakB/Documents/project/Tester/Bh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Bh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/C.v
+C:/Users/SarthakB/Documents/project/Tester/Ch.qip
+C:/Users/SarthakB/Documents/project/Tester/Ch.v
+C:/Users/SarthakB/Documents/project/Tester/Ch_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Ch_inst.v
+C:/Users/SarthakB/Documents/project/Tester/D.qip
+C:/Users/SarthakB/Documents/project/Tester/D.v
+C:/Users/SarthakB/Documents/project/Tester/D_bb.v
+C:/Users/SarthakB/Documents/project/Tester/D_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Dh.qip
+C:/Users/SarthakB/Documents/project/Tester/Dh.v
+C:/Users/SarthakB/Documents/project/Tester/Dh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Dh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/E.qip
+C:/Users/SarthakB/Documents/project/Tester/E.v
+C:/Users/SarthakB/Documents/project/Tester/E_bb.v
+C:/Users/SarthakB/Documents/project/Tester/E_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Eh.qip
+C:/Users/SarthakB/Documents/project/Tester/Eh.v
+C:/Users/SarthakB/Documents/project/Tester/Eh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Eh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/F.qip
+C:/Users/SarthakB/Documents/project/Tester/F.v
+C:/Users/SarthakB/Documents/project/Tester/F_bb.v
+C:/Users/SarthakB/Documents/project/Tester/F_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Fh.qip
+C:/Users/SarthakB/Documents/project/Tester/Fh.v
+C:/Users/SarthakB/Documents/project/Tester/Fh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Fh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/G.qip
+C:/Users/SarthakB/Documents/project/Tester/G.v
+C:/Users/SarthakB/Documents/project/Tester/G_bb.v
+C:/Users/SarthakB/Documents/project/Tester/G_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Gh.qip
+C:/Users/SarthakB/Documents/project/Tester/Gh.v
+C:/Users/SarthakB/Documents/project/Tester/Gh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Gh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/H.qip
+C:/Users/SarthakB/Documents/project/Tester/H.v
+C:/Users/SarthakB/Documents/project/Tester/H_bb.v
+C:/Users/SarthakB/Documents/project/Tester/H_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Hh.qip
+C:/Users/SarthakB/Documents/project/Tester/Hh.v
+C:/Users/SarthakB/Documents/project/Tester/Hh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Hh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/I.qip
+C:/Users/SarthakB/Documents/project/Tester/I.v
+C:/Users/SarthakB/Documents/project/Tester/I_bb.v
+C:/Users/SarthakB/Documents/project/Tester/I_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Ih.qip
+C:/Users/SarthakB/Documents/project/Tester/Ih.v
+C:/Users/SarthakB/Documents/project/Tester/Ih_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Ih_inst.v
+C:/Users/SarthakB/Documents/project/Tester/J.qip
+C:/Users/SarthakB/Documents/project/Tester/J.v
+C:/Users/SarthakB/Documents/project/Tester/J_bb.v
+C:/Users/SarthakB/Documents/project/Tester/J_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Jh.qip
+C:/Users/SarthakB/Documents/project/Tester/Jh.v
+C:/Users/SarthakB/Documents/project/Tester/Jh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Jh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/K.qip
+C:/Users/SarthakB/Documents/project/Tester/K.v
+C:/Users/SarthakB/Documents/project/Tester/K_bb.v
+C:/Users/SarthakB/Documents/project/Tester/K_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Kh.qip
+C:/Users/SarthakB/Documents/project/Tester/Kh.v
+C:/Users/SarthakB/Documents/project/Tester/Kh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Kh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/L.qip
+C:/Users/SarthakB/Documents/project/Tester/L.v
+C:/Users/SarthakB/Documents/project/Tester/L_bb.v
+C:/Users/SarthakB/Documents/project/Tester/L_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Lh.qip
+C:/Users/SarthakB/Documents/project/Tester/Lh.v
+C:/Users/SarthakB/Documents/project/Tester/Lh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Lh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/M.qip
+C:/Users/SarthakB/Documents/project/Tester/M.v
+C:/Users/SarthakB/Documents/project/Tester/M_bb.v
+C:/Users/SarthakB/Documents/project/Tester/M_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Mh.qip
+C:/Users/SarthakB/Documents/project/Tester/Mh.v
+C:/Users/SarthakB/Documents/project/Tester/Mh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Mh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/N.qip
+C:/Users/SarthakB/Documents/project/Tester/N.v
+C:/Users/SarthakB/Documents/project/Tester/N_bb.v
+C:/Users/SarthakB/Documents/project/Tester/N_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Nh.qip
+C:/Users/SarthakB/Documents/project/Tester/Nh.v
+C:/Users/SarthakB/Documents/project/Tester/Nh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Nh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/O.qip
+C:/Users/SarthakB/Documents/project/Tester/O.v
+C:/Users/SarthakB/Documents/project/Tester/O_bb.v
+C:/Users/SarthakB/Documents/project/Tester/O_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Oh.qip
+C:/Users/SarthakB/Documents/project/Tester/Oh.v
+C:/Users/SarthakB/Documents/project/Tester/Oh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Oh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/P.qip
+C:/Users/SarthakB/Documents/project/Tester/P.v
+C:/Users/SarthakB/Documents/project/Tester/P_bb.v
+C:/Users/SarthakB/Documents/project/Tester/P_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Ph.qip
+C:/Users/SarthakB/Documents/project/Tester/Ph.v
+C:/Users/SarthakB/Documents/project/Tester/Ph_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Ph_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Q.qip
+C:/Users/SarthakB/Documents/project/Tester/Q.v
+C:/Users/SarthakB/Documents/project/Tester/Q_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Q_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Qh.qip
+C:/Users/SarthakB/Documents/project/Tester/Qh.v
+C:/Users/SarthakB/Documents/project/Tester/Qh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Qh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/R.qip
+C:/Users/SarthakB/Documents/project/Tester/R.v
+C:/Users/SarthakB/Documents/project/Tester/R_bb.v
+C:/Users/SarthakB/Documents/project/Tester/R_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Rh.qip
+C:/Users/SarthakB/Documents/project/Tester/Rh.v
+C:/Users/SarthakB/Documents/project/Tester/Rh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Rh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/S.qip
+C:/Users/SarthakB/Documents/project/Tester/S.v
+C:/Users/SarthakB/Documents/project/Tester/SWAG.qip
+C:/Users/SarthakB/Documents/project/Tester/SWAG.v
+C:/Users/SarthakB/Documents/project/Tester/SWAG_bb.v
+C:/Users/SarthakB/Documents/project/Tester/SWAG_inst.v
+C:/Users/SarthakB/Documents/project/Tester/S_bb.v
+C:/Users/SarthakB/Documents/project/Tester/S_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Sh.qip
+C:/Users/SarthakB/Documents/project/Tester/Sh.v
+C:/Users/SarthakB/Documents/project/Tester/Sh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Sh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/T.qip
+C:/Users/SarthakB/Documents/project/Tester/T.v
+C:/Users/SarthakB/Documents/project/Tester/T_bb.v
+C:/Users/SarthakB/Documents/project/Tester/T_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Th.qip
+C:/Users/SarthakB/Documents/project/Tester/Th.v
+C:/Users/SarthakB/Documents/project/Tester/Th_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Th_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Thumb.qip
+C:/Users/SarthakB/Documents/project/Tester/Thumb.v
+C:/Users/SarthakB/Documents/project/Tester/Thumb_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Thumb_inst.v
+C:/Users/SarthakB/Documents/project/Tester/U.qip
+C:/Users/SarthakB/Documents/project/Tester/U.v
+C:/Users/SarthakB/Documents/project/Tester/U_bb.v
+C:/Users/SarthakB/Documents/project/Tester/U_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Uh.qip
+C:/Users/SarthakB/Documents/project/Tester/Uh.v
+C:/Users/SarthakB/Documents/project/Tester/Uh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Uh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/V.qip
+C:/Users/SarthakB/Documents/project/Tester/V.v
+C:/Users/SarthakB/Documents/project/Tester/V_bb.v
+C:/Users/SarthakB/Documents/project/Tester/V_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Vh.qip
+C:/Users/SarthakB/Documents/project/Tester/Vh.v
+C:/Users/SarthakB/Documents/project/Tester/Vh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Vh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/W.qip
+C:/Users/SarthakB/Documents/project/Tester/W.v
+C:/Users/SarthakB/Documents/project/Tester/W_bb.v
+C:/Users/SarthakB/Documents/project/Tester/W_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Wh.qip
+C:/Users/SarthakB/Documents/project/Tester/Wh.v
+C:/Users/SarthakB/Documents/project/Tester/Wh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Wh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/X.qip
+C:/Users/SarthakB/Documents/project/Tester/X.v
+C:/Users/SarthakB/Documents/project/Tester/X_bb.v
+C:/Users/SarthakB/Documents/project/Tester/X_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Xh.qip
+C:/Users/SarthakB/Documents/project/Tester/Xh.v
+C:/Users/SarthakB/Documents/project/Tester/Xh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Xh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Y.qip
+C:/Users/SarthakB/Documents/project/Tester/Y.v
+C:/Users/SarthakB/Documents/project/Tester/Y_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Y_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Yh.qip
+C:/Users/SarthakB/Documents/project/Tester/Yh.v
+C:/Users/SarthakB/Documents/project/Tester/Yh_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Yh_inst.v
+C:/Users/SarthakB/Documents/project/Tester/Z.qip
+C:/Users/SarthakB/Documents/project/Tester/Z.v
+C:/Users/SarthakB/Documents/project/Tester/Z_bb.v
+C:/Users/SarthakB/Documents/project/Tester/Z_inst.v
+C:/Users/SarthakB/Documents/project/Tester/closed.qip
+C:/Users/SarthakB/Documents/project/Tester/closed.v
+C:/Users/SarthakB/Documents/project/Tester/closed_bb.v
+C:/Users/SarthakB/Documents/project/Tester/closed_inst.v
+C:/Users/SarthakB/Documents/project/Tester/display.mif
+C:/Users/SarthakB/Documents/project/Tester/fullhand.qip
+C:/Users/SarthakB/Documents/project/Tester/fullhand.v
+C:/Users/SarthakB/Documents/project/Tester/fullhand_bb.v
+C:/Users/SarthakB/Documents/project/Tester/fullhand_inst.v
+C:/Users/SarthakB/Documents/project/Tester/gesture.qip
+C:/Users/SarthakB/Documents/project/Tester/gesture.v
+C:/Users/SarthakB/Documents/project/Tester/gesture_bb.v
+C:/Users/SarthakB/Documents/project/Tester/gesture_inst.v
+C:/Users/SarthakB/Documents/project/Tester/hand2.qip
+C:/Users/SarthakB/Documents/project/Tester/hand2.v
+C:/Users/SarthakB/Documents/project/Tester/hand2_bb.v
+C:/Users/SarthakB/Documents/project/Tester/hand3.qip
+C:/Users/SarthakB/Documents/project/Tester/hand3.v
+C:/Users/SarthakB/Documents/project/Tester/hand3_bb.v
+C:/Users/SarthakB/Documents/project/Tester/hand3_inst.v
+C:/Users/SarthakB/Documents/project/Tester/hand4.qip
+C:/Users/SarthakB/Documents/project/Tester/hand4.v
+C:/Users/SarthakB/Documents/project/Tester/hand4_bb.v
+C:/Users/SarthakB/Documents/project/Tester/hand5.qip
+C:/Users/SarthakB/Documents/project/Tester/hand5.v
+C:/Users/SarthakB/Documents/project/Tester/hand5_bb.v
+C:/Users/SarthakB/Documents/project/Tester/hand6.qip
+C:/Users/SarthakB/Documents/project/Tester/hand6.v
+C:/Users/SarthakB/Documents/project/Tester/hand6_bb.v
+C:/Users/SarthakB/Documents/project/Tester/hand6_inst.v
+C:/Users/SarthakB/Documents/project/Tester/hand7.qip
+C:/Users/SarthakB/Documents/project/Tester/hand7.v
+C:/Users/SarthakB/Documents/project/Tester/hand7_bb.v
+C:/Users/SarthakB/Documents/project/Tester/hand7_inst.v
+C:/Users/SarthakB/Documents/project/Tester/incremental_db/compiled_partitions/tester.db_info
+C:/Users/SarthakB/Documents/project/Tester/pce.qip
+C:/Users/SarthakB/Documents/project/Tester/pce.v
+C:/Users/SarthakB/Documents/project/Tester/pce_bb.v
+C:/Users/SarthakB/Documents/project/Tester/pce_inst.v
+C:/Users/SarthakB/Documents/project/Tester/tester.qpf
+C:/Users/SarthakB/Documents/project/Tester/tester.qsf
+C:/Users/SarthakB/Documents/project/Tester/tester.v
+C:/Users/SarthakB/Documents/project/Tester/vga_adapter.v
+C:/Users/SarthakB/Documents/project/Tester/vga_address_translator.v
+C:/Users/SarthakB/Documents/project/Tester/vga_controller.v
+C:/Users/SarthakB/Documents/project/Tester/vga_pll.v
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Ah/Ah.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Bh/Bh.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Ch/Ch.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Dh/Dh.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Eh/Eh.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Fh/Fh.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Gh/Gh.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Ih/Ih.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Jh/Jh.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Kh/Kh.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Lh/Lh.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Mh/Mh.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Nh/Nh.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Oh/Oh.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Ph/Ph.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Qh/Qh.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Rh/Rh.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Sh/Sh.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Th/Th.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Uh/Uh.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Vh/Vh.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Wh/Wh.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Xh/Xh.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/Zzfinger1comb3/image.colour.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/closed/image.colour.mif
+C:/Users/SarthakB/Documents/project/handConverted/handConverted/fullhand/image.colour.mif
+c:/altera/11.1sp2/quartus/bin/assignment_defaults.qdf
+	======= Total: 312 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sun Nov 23 00:11:14 2014
+Source archive file:	C:/Users/SarthakB/Documents/project/Tester/tester_tmp_archive.qar
+Quartus II failed to read the archive or extract some files into 
+	D:/.
+	======= Files failed to restore before extraction terminated: ======
+hand3.v
+hand3_bb.v
+hand3_inst.v
+hand4.qip
+hand4.v
+hand4_bb.v
+hand5.qip
+hand5.v
+hand5_bb.v
+hand6.qip
+hand6.v
+hand6_bb.v
+hand6_inst.v
+hand7.qip
+hand7.v
+hand7_bb.v
+hand7_inst.v
+incremental_db/compiled_partitions/tester.db_info
+pce.qip
+pce.v
+pce_bb.v
+pce_inst.v
+tester.qpf
+tester.qsf
+tester.v
+vga_adapter.v
+vga_address_translator.v
+vga_controller.v
+vga_pll.v
+zlib_out_time_stamp_tmp.tmp
+handConverted/handConverted/Ah/Ah.mif
+handConverted/handConverted/Bh/Bh.mif
+handConverted/handConverted/Ch/Ch.mif
+handConverted/handConverted/Dh/Dh.mif
+handConverted/handConverted/Eh/Eh.mif
+handConverted/handConverted/Fh/Fh.mif
+handConverted/handConverted/Gh/Gh.mif
+handConverted/handConverted/Ih/Ih.mif
+handConverted/handConverted/Jh/Jh.mif
+handConverted/handConverted/Kh/Kh.mif
+handConverted/handConverted/Lh/Lh.mif
+handConverted/handConverted/Mh/Mh.mif
+handConverted/handConverted/Nh/Nh.mif
+handConverted/handConverted/Oh/Oh.mif
+handConverted/handConverted/Ph/Ph.mif
+handConverted/handConverted/Qh/Qh.mif
+handConverted/handConverted/Rh/Rh.mif
+handConverted/handConverted/Sh/Sh.mif
+handConverted/handConverted/Th/Th.mif
+handConverted/handConverted/Uh/Uh.mif
+handConverted/handConverted/Vh/Vh.mif
+handConverted/handConverted/Wh/Wh.mif
+handConverted/handConverted/Xh/Xh.mif
+handConverted/handConverted/Zzfinger1comb3/image.colour.mif
+handConverted/handConverted/closed/image.colour.mif
+handConverted/handConverted/fullhand/image.colour.mif
+assignment_defaults.qdf
+			[57 file(s)]
+

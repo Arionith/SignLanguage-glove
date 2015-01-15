@@ -1,0 +1,262 @@
+|part3
+SW[0] => always0.IN0
+SW[0] => always0.IN0
+SW[0] => always0.IN0
+SW[1] => always0.IN1
+SW[1] => always0.IN1
+SW[1] => always0.IN1
+CLOCK_50 => CLOCK_50.IN8
+
+
+|part3|smallsecpulse:u8
+clk => counter[0].CLK
+clk => counter[1].CLK
+clk => counter[2].CLK
+clk => counter[3].CLK
+clk => counter[4].CLK
+clk => counter[5].CLK
+clk => counter[6].CLK
+clk => counter[7].CLK
+clk => counter[8].CLK
+clk => counter[9].CLK
+clk => counter[10].CLK
+clk => counter[11].CLK
+clk => counter[12].CLK
+clk => counter[13].CLK
+clk => counter[14].CLK
+clk => counter[15].CLK
+clk => counter[16].CLK
+clk => counter[17].CLK
+clk => counter[18].CLK
+clk => counter[19].CLK
+clk => counter[20].CLK
+clk => counter[21].CLK
+clk => counter[22].CLK
+clk => counter[23].CLK
+clk => counter[24].CLK
+clk => counter[25].CLK
+clk => counter[26].CLK
+clk => counter[27].CLK
+
+
+|part3|onesecpulse:u9
+clk => counter[0].CLK
+clk => counter[1].CLK
+clk => counter[2].CLK
+clk => counter[3].CLK
+clk => counter[4].CLK
+clk => counter[5].CLK
+clk => counter[6].CLK
+clk => counter[7].CLK
+clk => counter[8].CLK
+clk => counter[9].CLK
+clk => counter[10].CLK
+clk => counter[11].CLK
+clk => counter[12].CLK
+clk => counter[13].CLK
+clk => counter[14].CLK
+clk => counter[15].CLK
+clk => counter[16].CLK
+clk => counter[17].CLK
+clk => counter[18].CLK
+clk => counter[19].CLK
+clk => counter[20].CLK
+clk => counter[21].CLK
+clk => counter[22].CLK
+clk => counter[23].CLK
+clk => counter[24].CLK
+clk => counter[25].CLK
+clk => counter[26].CLK
+clk => counter[27].CLK
+
+
+|part3|twosecpulse:u10
+clk => counter[0].CLK
+clk => counter[1].CLK
+clk => counter[2].CLK
+clk => counter[3].CLK
+clk => counter[4].CLK
+clk => counter[5].CLK
+clk => counter[6].CLK
+clk => counter[7].CLK
+clk => counter[8].CLK
+clk => counter[9].CLK
+clk => counter[10].CLK
+clk => counter[11].CLK
+clk => counter[12].CLK
+clk => counter[13].CLK
+clk => counter[14].CLK
+clk => counter[15].CLK
+clk => counter[16].CLK
+clk => counter[17].CLK
+clk => counter[18].CLK
+clk => counter[19].CLK
+clk => counter[20].CLK
+clk => counter[21].CLK
+clk => counter[22].CLK
+clk => counter[23].CLK
+clk => counter[24].CLK
+clk => counter[25].CLK
+clk => counter[26].CLK
+clk => counter[27].CLK
+
+
+|part3|foursecpulse:u11
+clk => counter[0].CLK
+clk => counter[1].CLK
+clk => counter[2].CLK
+clk => counter[3].CLK
+clk => counter[4].CLK
+clk => counter[5].CLK
+clk => counter[6].CLK
+clk => counter[7].CLK
+clk => counter[8].CLK
+clk => counter[9].CLK
+clk => counter[10].CLK
+clk => counter[11].CLK
+clk => counter[12].CLK
+clk => counter[13].CLK
+clk => counter[14].CLK
+clk => counter[15].CLK
+clk => counter[16].CLK
+clk => counter[17].CLK
+clk => counter[18].CLK
+clk => counter[19].CLK
+clk => counter[20].CLK
+clk => counter[21].CLK
+clk => counter[22].CLK
+clk => counter[23].CLK
+clk => counter[24].CLK
+clk => counter[25].CLK
+clk => counter[26].CLK
+clk => counter[27].CLK
+
+
+|part3|instant:u12
+pulse => pulse.IN1
+CLOCK_50 => CLOCK_50.IN4
+
+
+|part3|instant:u12|tff_sync_rest:A
+enable => q~reg0.ENA
+clk => q~reg0.CLK
+
+
+|part3|instant:u12|tff_sync_rest:B
+enable => q~reg0.ENA
+clk => q~reg0.CLK
+
+
+|part3|instant:u12|tff_sync_rest:C
+enable => q~reg0.ENA
+clk => q~reg0.CLK
+
+
+|part3|instant:u12|tff_sync_rest:D
+enable => q~reg0.ENA
+clk => q~reg0.CLK
+
+
+|part3|instant:u13
+pulse => pulse.IN1
+CLOCK_50 => CLOCK_50.IN4
+
+
+|part3|instant:u13|tff_sync_rest:A
+enable => q~reg0.ENA
+clk => q~reg0.CLK
+
+
+|part3|instant:u13|tff_sync_rest:B
+enable => q~reg0.ENA
+clk => q~reg0.CLK
+
+
+|part3|instant:u13|tff_sync_rest:C
+enable => q~reg0.ENA
+clk => q~reg0.CLK
+
+
+|part3|instant:u13|tff_sync_rest:D
+enable => q~reg0.ENA
+clk => q~reg0.CLK
+
+
+|part3|instant:u14
+pulse => pulse.IN1
+CLOCK_50 => CLOCK_50.IN4
+
+
+|part3|instant:u14|tff_sync_rest:A
+enable => q~reg0.ENA
+clk => q~reg0.CLK
+
+
+|part3|instant:u14|tff_sync_rest:B
+enable => q~reg0.ENA
+clk => q~reg0.CLK
+
+
+|part3|instant:u14|tff_sync_rest:C
+enable => q~reg0.ENA
+clk => q~reg0.CLK
+
+
+|part3|instant:u14|tff_sync_rest:D
+enable => q~reg0.ENA
+clk => q~reg0.CLK
+
+
+|part3|instant:u15
+pulse => pulse.IN1
+CLOCK_50 => CLOCK_50.IN4
+
+
+|part3|instant:u15|tff_sync_rest:A
+enable => q~reg0.ENA
+clk => q~reg0.CLK
+
+
+|part3|instant:u15|tff_sync_rest:B
+enable => q~reg0.ENA
+clk => q~reg0.CLK
+
+
+|part3|instant:u15|tff_sync_rest:C
+enable => q~reg0.ENA
+clk => q~reg0.CLK
+
+
+|part3|instant:u15|tff_sync_rest:D
+enable => q~reg0.ENA
+clk => q~reg0.CLK
+
+
+|part3|seg7:u16
+C[0] => Decoder0.IN3
+C[1] => Decoder0.IN2
+C[2] => Decoder0.IN1
+C[3] => Decoder0.IN0
+
+
+|part3|seg7:u17
+C[0] => Decoder0.IN3
+C[1] => Decoder0.IN2
+C[2] => Decoder0.IN1
+C[3] => Decoder0.IN0
+
+
+|part3|seg7:u18
+C[0] => Decoder0.IN3
+C[1] => Decoder0.IN2
+C[2] => Decoder0.IN1
+C[3] => Decoder0.IN0
+
+
+|part3|seg7:u19
+C[0] => Decoder0.IN3
+C[1] => Decoder0.IN2
+C[2] => Decoder0.IN1
+C[3] => Decoder0.IN0
+
+

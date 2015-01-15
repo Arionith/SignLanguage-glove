@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="sketch">
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|B:comb_617|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_3c71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|O:comb_630|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_gc71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|S:comb_634|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_kc71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|W:comb_638|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_pc71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|G:comb_622|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_8c71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|K:comb_626|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_cc71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|C:comb_618|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_4c71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|P:comb_631|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_hc71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|T:comb_635|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_mc71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|X:comb_639|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_3a71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|F:comb_621|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_7c71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|H:comb_623|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_9c71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|J:comb_625|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_bc71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|L:comb_627|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_dc71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|N:comb_629|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_fc71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|Y:comb_640|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_qc71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|D:comb_619|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_5c71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|Q:comb_632|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ic71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|U:comb_636|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_nc71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|vga_adapter:VGA|altsyncram:VideoMemory" CBX_FILE_NAME="altsyncram_ptd1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|E:comb_620|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_6c71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|I:comb_624|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ac71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|M:comb_628|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ec71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|Z:comb_641|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_rc71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|A:comb_616|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_2c71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|R:comb_633|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_jc71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|sketch|V:comb_637|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_oc71.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

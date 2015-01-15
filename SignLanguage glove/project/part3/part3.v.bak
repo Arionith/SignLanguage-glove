@@ -1,0 +1,81 @@
+module part1(SW, CLOCK_50, HEX0, HEX1);
+input [1:0]SW;
+input CLOCK_50;
+output [0:6]HEX0, HEX1;
+wire [6:0]H1;
+wire [6:0]H2;
+wire[6:0]W;
+wire[7:0]q;
+
+
+
+tff_sync_rest (SW[1] , CLOCK_50   , SW[0] ,q[0]);
+assign W[0]=SW[1]&q[0];
+
+tff_sync_rest (W[0] , CLOCK_50   , SW[0] , q[1]);
+assign W[1]=W[0]&q[1];
+
+tff_sync_rest (W[1] , CLOCK_50   , SW[0] , q[2]);
+assign W[2]=W[1]&q[2];
+
+tff_sync_rest (W[2] , CLOCK_50   , SW[0] , q[3]);
+assign W[3]=W[2]&q[3];
+
+tff_sync_rest (W[3] , CLOCK_50   , SW[0] , q[4]);
+assign W[4]=W[3]&q[4];
+
+tff_sync_rest (W[4] , CLOCK_50   , SW[0] , q[5]); 
+assign W[5]=W[4]&q[5];
+
+tff_sync_rest (W[5] , CLOCK_50   , SW[0] , q[6]);
+assign W[6]=W[5]&q[6];
+
+tff_sync_rest (W[6] , CLOCK_50   , SW[0] , q[7]);
+
+
+ seg7 u1(q[3:0], H1[6:0]);
+ seg7 u2(q[7:4], H2[6:0]);
+ assign HEX0[0:6]=~H1;
+ assign HEX1[0:6]=~H2;
+ 
+ 
+ 
+ endmodule
+
+ 
+module tff_sync_rest (enable , clk   , clear , q);
+  input enable, clk, clear ; 
+  output q;
+  reg q;
+  always @ ( posedge clk)
+  if (~clear) begin
+    q <= 1'b0;
+  end else if (enable) begin
+    q <=  ! q;
+  end
+  endmodule 
+  
+module seg7 (input [3:0]C, output reg[6:0]Display);
+
+always @*
+case (C)
+ 4'b0000:Display=7'b1111110;
+ 4'b0001:Display=7'b0110000;
+ 4'b0010:Display=7'b1101101;
+ 4'b0011:Display=7'b1111001;
+ 4'b0100:Display=7'b0110011;
+ 4'b0101:Display=7'b1011011;
+ 4'b0110:Display=7'b1011111;
+ 4'b0111:Display=7'b1110000;
+ 4'b1000:Display=7'b1111111;
+ 4'b1001:Display=7'b1111011;
+ 4'b1010:Display=7'b1110111;
+ 4'b1011:Display=7'b0011111;
+ 4'b1100:Display=7'b1001110;
+ 4'b1101:Display=7'b0111101;
+ 4'b1110:Display=7'b1001111;
+ 4'b1111:Display=7'b1000111;
+ default:Display=7'b1111110;
+ endcase
+ 
+ endmodule

@@ -1,0 +1,8 @@
+<sld_project_info>
+  <file_info>
+    <file checksum="0x003A1F29" device="EP2C35F672C6" path="//SRVD/Homes$/bansals4/Downloads/Lab7_starterkit/part1b/background.sof" usercode="0xFFFFFFFF"/>
+    <file checksum="0x1C5E451A" device="EPCS16" path="//SRVD/Homes$/bansals4/Downloads/Lab7_starterkit/part1b/background.pof" usercode="0x00000000"/>
+  </file_info>
+  <hub_info ir_width="0" node_count="0"/>
+  <node_info/>
+</sld_project_info>

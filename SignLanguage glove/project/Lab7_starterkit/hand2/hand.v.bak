@@ -1,0 +1,6 @@
+	module HAND(SW,LEDR);
+	input [4:0]SW;
+	output [4:0]LEDR;
+	assign LEDR =SW;
+	endmodule
+	

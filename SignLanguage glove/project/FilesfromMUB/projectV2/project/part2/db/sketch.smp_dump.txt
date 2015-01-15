@@ -1,0 +1,7 @@
+
+State Machine - |sketch|curr_state
+Name curr_state.ds curr_state.cs curr_state.bs curr_state.IDLE 
+curr_state.IDLE 0 0 0 0 
+curr_state.bs 0 0 1 1 
+curr_state.cs 0 1 0 1 
+curr_state.ds 1 0 0 1 
